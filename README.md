@@ -5,10 +5,10 @@ enePlayer is a very simple player developed in one night.
 # Me!
 **Nelson Morales | 15yo | dev & streamer**
 
-**Streams! ⮞ [nmoralesFZ on NiMO TV](https://nimo.tv/nmoralesfz)
-Instagram ⮞ [@nmoralesfz](https://instagram.com/nmoralesfz)
-Twitter ⮞ [@nmoralesfz](https://twitter.com/nmoralesfz)
-Github ⮞ [nmoralesfz](https://github.com/nmoralesfz)**
+**Streams! ⮞ [nmoralesFZ on NiMO TV](https://nimo.tv/nmoralesfz)**
+**Instagram ⮞ [@nmoralesfz](https://instagram.com/nmoralesfz)**
+**Twitter ⮞ [@nmoralesfz](https://twitter.com/nmoralesfz)**
+**Github ⮞ [nmoralesfz](https://github.com/nmoralesfz)**
 
 # Attributions
 
